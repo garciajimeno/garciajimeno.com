@@ -1,0 +1,15 @@
+/* Custom styles for garciajimeno.com */
+
+body, body *, a, a * {
+  color: #223b6e !important;
+}
+
+.dark body, .dark body *, .dark a, .dark a * {
+  color: #d1d5db !important;
+}
+
+/* Tighter spacing around divider lines */
+hr {
+  margin-top: 0.75em !important;
+  margin-bottom: 0.75em !important;
+}

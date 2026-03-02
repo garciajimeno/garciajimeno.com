@@ -1,0 +1,67 @@
+baseURL = "https://garciajimeno.com/"
+title = "Camilo García-Jimeno"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "hugo-paper"
+
+[author]
+  name = "Camilo García-Jimeno"
+
+[params]
+  color = 'linen'
+  disableHLJS = true
+  disablePostNavigation = true
+  monoDarkIcon = true
+
+  # Home page profile
+  name = 'Camilo García-Jimeno'
+  bio = 'Economist'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "working-papers"
+    name = "Working Papers"
+    url = "/working-papers/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "non-academic"
+    name = "Non-Academic"
+    url = "/non-academic/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 60
+
+[taxonomies]
+
+[pagination]
+  pagerSize = 100
