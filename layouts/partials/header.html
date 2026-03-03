@@ -53,10 +53,14 @@
       setDark(event.matches);
     });
 
-    // manual switch
-    const btnDark = document.querySelector('.btn-dark');
-    btnDark.addEventListener('click', () => {
-      setDark(localStorage.getItem('dark') !== 'true');
+    // manual switch (wait for full page load since button is in footer)
+    document.addEventListener('DOMContentLoaded', () => {
+      const btnDark = document.querySelector('.btn-dark');
+      if (btnDark) {
+        btnDark.addEventListener('click', () => {
+          setDark(localStorage.getItem('dark') !== 'true');
+        });
+      }
     });
   </script>
 
