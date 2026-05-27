@@ -19,5 +19,5 @@ Working paper, 2026.
 
 **"Civil Liberties and Social Structure."**
 (with Selman Erol)
-Working paper, 2024.
-<a href="/files/Erol_GarciaJimeno_2024.pdf" target="_blank">[PDF]</a>
+Working paper, 2026.
+<a href="/files/Erol_GarciaJimeno_2026.pdf" target="_blank">[PDF]</a>
