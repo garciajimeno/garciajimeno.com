@@ -3,6 +3,13 @@ title = "Publications"
 type = "page"
 +++
 
+**"Civil Liberties and Social Structure."**
+(with Selman Erol)
+*American Economic Journal: Microeconomics*, forthcoming.
+<a href="/files/Erol_GarciaJimeno_2026.pdf" target="_blank">[PDF]</a>
+
+---
+
 **"Persuasion and Dissuasion in Political Campaigns: Communication and Media Coverage in Senate Races."**
 (with Pinar Yildirim)
 *Quantitative Marketing and Economics*, Vol. 23, pp. 491--522, 2025.

@@ -14,10 +14,3 @@ Working paper, 2026.
 (with Sahar Parsa)
 Working paper, 2026.
 <a href="/files/GarciaJimeno_Parsa_2026.pdf" target="_blank">[PDF]</a>
-
----
-
-**"Civil Liberties and Social Structure."**
-(with Selman Erol)
-Working paper, 2026.
-<a href="/files/Erol_GarciaJimeno_2026.pdf" target="_blank">[PDF]</a>
