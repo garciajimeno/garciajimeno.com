@@ -3,4 +3,4 @@ title = "CV"
 type = "page"
 +++
 
-My CV is available on request — please [get in touch](/contact/).
+Download my CV here: [Curriculum Vitae (PDF)](/files/cv.pdf)
